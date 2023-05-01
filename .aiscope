@@ -1,0 +1,10 @@
+**/*
+
+# Exclude irrelevant files
+!venv/**/*
+!tests/**/*
+!run_tests.py
+!aicode_out/**/*
+!util/**/*
+!**/__pycache__/**/*
+!.git/**/*
